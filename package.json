@@ -1,10 +1,10 @@
 {
-  "name": "Log4JS",
+  "name": "xaoslogger",
   "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/XAOS-Interactive/Log4JS.git"
+    "url": "https://github.com/XAOS-Interactive/XAOSLogger.git"
   },
   "keywords": [
     "logger", "logging"
