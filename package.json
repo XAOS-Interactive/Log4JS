@@ -2,6 +2,13 @@
   "name": "Log4JS",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XAOS-Interactive/Log4JS.git"
+  },
+  "keywords": [
+    "logger", "logging"
+  ],
   "dependencies": {
     "chalk": "^2.3.1",
     "time-stamp": "^2.0.0",
