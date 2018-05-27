@@ -1,5 +1,5 @@
-const log4js = require('../index');
+const xaoslogger = require('../index');
 
-let log = new log4js.Logger();
+let log = new xaoslogger.Logger();
 
 log.debug('%s %d %j', 'something', 0.1, {key: 'value'});
