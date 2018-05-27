@@ -1,0 +1,10 @@
+{
+  "name": "Log4JS",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "time-stamp": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
